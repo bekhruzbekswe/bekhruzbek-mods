@@ -1,0 +1,14 @@
+{
+  "name": "bekhruzbek-mods",
+  "owner": {
+    "name": "bekhruzbekswe"
+  },
+  "plugins": [
+    {
+      "name": "figma-cost",
+      "source": "./figma-cost",
+      "description": "Read-only pane for the cost of Figma design work in a session. Open it with /figma-cost."
+    }
+  ],
+  "description": "Personal Claude Code mods"
+}

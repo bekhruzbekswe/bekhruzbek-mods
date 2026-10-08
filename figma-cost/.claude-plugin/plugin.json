@@ -1,0 +1,7 @@
+{
+  "name": "figma-cost",
+  "version": "0.2.0",
+  "description": "Read-only pane that shows what Figma design work costs in a session: spend, screens, iterations per screen, failures and tokens by agent. Spends no model tokens.",
+  "author": { "name": "bekhruzbekswe" },
+  "types": "./types/index.d.ts"
+}

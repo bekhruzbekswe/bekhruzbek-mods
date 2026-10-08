@@ -1,0 +1,49 @@
+figma-cost/types/index.d.ts
+  s_94eb712ec8aba5::t_439e88714eb05a 1-42
+figma-cost/hooks/register.tsx
+  s_94eb712ec8aba5::t_483102c67337e2 1-248
+figma-cost/hooks/lib.test.ts
+  s_94eb712ec8aba5::t_767400f61db42d 1-209
+figma-cost/README.md
+  s_94eb712ec8aba5::t_37e6e310cc51d4 1-23
+figma-cost/tsconfig.json
+  s_94eb712ec8aba5::t_91969615bb1448 1-3
+figma-cost/hooks/lib.ts
+  s_94eb712ec8aba5::t_930545277115f5 1-408
+.claude-plugin/marketplace.json
+  s_94eb712ec8aba5::t_d633aa21934823 1-14
+figma-cost/hooks/hooks.json
+  s_94eb712ec8aba5::t_c6448cc42c00c3 1
+.gitignore
+  s_fbb7e106ff0d1c::t_eb729510bc182d 1-4
+figma-cost/.claude-plugin/plugin.json
+  s_94eb712ec8aba5::t_372fd780c67b37 1-7
+README.md
+  s_fbb7e106ff0d1c::t_1465f9470c206d 1-22
+figma-cost/hooks/pane.test.tsx
+  s_94eb712ec8aba5::t_c09d47f0d65789 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "41c6e02eaf25455aeeef45e246473e73c111e63a",
+  "prompts": {},
+  "sessions": {
+    "s_94eb712ec8aba5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f4640c15-d492-4a8d-ad9a-9fa23d6fa617",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "bekhruzbekswe <174773462+bekhruzbekswe@users.noreply.github.com>"
+    },
+    "s_fbb7e106ff0d1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc567b0c-f647-4ef1-a097-8425f571a842",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "bekhruzbekswe <174773462+bekhruzbekswe@users.noreply.github.com>"
+    }
+  }
+}

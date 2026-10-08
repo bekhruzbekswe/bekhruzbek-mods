@@ -1,6 +1,6 @@
-# bekhruzbek-mods
+# modme
 
-Personal Claude Code plugins, shared as a small marketplace.
+Personal Claude Code plugins, shared as a small marketplace. Mods for your Claude Code, hence the name.
 
 | Plugin | What it does |
 |---|---|
@@ -11,8 +11,8 @@ Personal Claude Code plugins, shared as a small marketplace.
 In Claude Code:
 
 ```
-/plugin marketplace add <owner>/<repo>
-/plugin install figma-cost@bekhruzbek-mods
+/plugin marketplace add bekhruzbekswe/modme
+/plugin install figma-cost@modme
 ```
 
 Then open the pane with `/figma-cost`. See [figma-cost/README.md](figma-cost/README.md) for what the numbers mean and what the plugin does and does not touch.
